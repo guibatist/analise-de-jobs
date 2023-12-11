@@ -1,4 +1,4 @@
-# Analise de Velocidade de Jobs
+# Análise de Velocidade de Jobs
 Nessa aplicação Python é feita uma comparação de jobs, no caso, para ver se ficou mais lento ou mais rápido e qual foi a diferença de minutos entre os meses de Setembro e Outubro.
 
 # Documentos
